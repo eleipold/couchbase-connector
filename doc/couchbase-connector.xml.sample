@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(couchbase:greet) -->
+    <couchbase:greet config-ref="" friend="#[map-payload:friend]" />
+<!-- END_INCLUDE(couchbase:greet) -->
